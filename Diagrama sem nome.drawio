@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T00:42:43.637Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="E-4VCglQNMFYVgUnqaHy" version="24.2.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-04-12T00:46:10.692Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="klfaF4rTSD1zRwbybT1G" version="24.2.3" type="github" pages="8">
   <diagram name="Fluxo principal" id="qI5p7QWz9F6xZ1Ftp386">
     <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -560,7 +560,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9d9c8R_nQGt1SUXGlavX" name="Subfluxo atv 3">
-    <mxGraphModel dx="2998" dy="1029" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2084" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -599,7 +599,7 @@
             <mxGeometry x="-550" y="174.38" width="160" height="35.62" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;2.1&lt;/b&gt;&lt;/font&gt;" placeholders="1" name="Variable" id="-5CQ9UhfSdYAtYRS8wWY-24">
+        <UserObject label="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;3.1&lt;/b&gt;&lt;/font&gt;" placeholders="1" name="Variable" id="-5CQ9UhfSdYAtYRS8wWY-24">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
             <mxGeometry x="-595" y="320" width="80" height="20" as="geometry" />
           </mxCell>
@@ -713,27 +713,27 @@
         <mxCell id="Hn7fFz5xIUoT4mSJeN1X-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Sim&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="810" y="557.5" width="60" height="35" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;2.2&lt;/b&gt;&lt;/font&gt;" placeholders="1" name="Variable" id="Hn7fFz5xIUoT4mSJeN1X-7">
+        <UserObject label="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;3.2&lt;/b&gt;&lt;/font&gt;" placeholders="1" name="Variable" id="Hn7fFz5xIUoT4mSJeN1X-7">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
             <mxGeometry x="-241.5" y="182.19" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;2.3&lt;/b&gt;&lt;/font&gt;" placeholders="1" name="Variable" id="Hn7fFz5xIUoT4mSJeN1X-8">
+        <UserObject label="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;3.3&lt;/b&gt;&lt;/font&gt;" placeholders="1" name="Variable" id="Hn7fFz5xIUoT4mSJeN1X-8">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
             <mxGeometry x="-241.5" y="370" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;2.4&lt;/b&gt;&lt;/font&gt;" placeholders="1" name="Variable" id="Hn7fFz5xIUoT4mSJeN1X-9">
+        <UserObject label="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;3.4&lt;/b&gt;&lt;/font&gt;" placeholders="1" name="Variable" id="Hn7fFz5xIUoT4mSJeN1X-9">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
             <mxGeometry x="-241.5" y="565" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;2.5&lt;/b&gt;&lt;/font&gt;" placeholders="1" name="Variable" id="Hn7fFz5xIUoT4mSJeN1X-10">
+        <UserObject label="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;3.5&lt;/b&gt;&lt;/font&gt;" placeholders="1" name="Variable" id="Hn7fFz5xIUoT4mSJeN1X-10">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
             <mxGeometry x="155" y="380" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;2.6&lt;/b&gt;&lt;/font&gt;" placeholders="1" name="Variable" id="Hn7fFz5xIUoT4mSJeN1X-11">
+        <UserObject label="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;3.6&lt;/b&gt;&lt;/font&gt;" placeholders="1" name="Variable" id="Hn7fFz5xIUoT4mSJeN1X-11">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
             <mxGeometry x="530" y="385" width="80" height="20" as="geometry" />
           </mxCell>
@@ -763,7 +763,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Q5NuCqO5iTvfjcdDFIS4" name="Subfluxo das atividades em desenvolvimento(3)">
-    <mxGraphModel dx="2021" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2998" dy="1029" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2884,6 +2884,16 @@
         <mxCell id="egUfvJjzTDOj4LpDPQSN-78" value="Engenheiro de teste" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="890" y="2170" width="30" height="50" as="geometry" />
         </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;4.2&lt;/b&gt;&lt;/font&gt;" placeholders="1" name="Variable" id="g2svCCcIx1rqzhCSpzTT-1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="-345" y="320" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;4.2&lt;/b&gt;&lt;/font&gt;" placeholders="1" name="Variable" id="g2svCCcIx1rqzhCSpzTT-2">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="-1103.75" y="625" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
